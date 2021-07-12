@@ -1,0 +1,6 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Feature Request
+    url: https://github.com/therubyradar/submissions/discussions/new?category=Submissions
+
+    about: 'Submit your content to be including in the upcoming newsletter.'
